@@ -1,0 +1,28 @@
+{
+  "messages": [
+    {
+      "id": 1765717330897,
+      "sender": "Alice",
+      "text": "Hello how are you",
+      "createdAt": "2025-12-14T13:02:10.897Z"
+    },
+    {
+      "id": 1765717361233,
+      "sender": "Bob",
+      "text": "I'm fine thanks, and you?",
+      "createdAt": "2025-12-14T13:02:41.233Z"
+    },
+    {
+      "id": 1765717496968,
+      "sender": "Alice",
+      "text": "I'm good, let's go for a walk",
+      "createdAt": "2025-12-14T13:04:56.968Z"
+    },
+    {
+      "id": 1766056437133,
+      "sender": "Bob",
+      "text": "Yeah great!",
+      "createdAt": "2025-12-18T11:13:57.133Z"
+    }
+  ]
+}
